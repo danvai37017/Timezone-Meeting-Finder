@@ -1,0 +1,39 @@
+.styled {
+  font-family: 'Times New Roman';
+}
+
+.date {
+  width:30px;
+}
+
+#time_and_date {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px
+}
+
+.labels {
+  color: black;
+}
+
+#description {
+  margin-bottom: 100px;
+  color: rgb(56, 182, 255);
+  font-family: 'Times New Roman';
+}
+
+#convert {
+  border:0px;
+  background-color: rgb(132, 235, 235);
+  color:blue;
+  margin-top:100px;
+  padding-block: 10px;
+  padding-inline:25px;
+  font-size:30px;
+  font-family:'Segoe UI';
+  border-radius:10px;
+}
+
+body {
+  background-color:khaki
+}
